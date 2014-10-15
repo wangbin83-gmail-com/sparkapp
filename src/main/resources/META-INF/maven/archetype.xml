@@ -1,0 +1,6 @@
+<archetype>
+  <id>sparkapp</id>
+  <sources>
+    <source>src/main/java/sample.scala</source>
+  </sources>
+</archetype>
